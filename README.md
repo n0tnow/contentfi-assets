@@ -1,0 +1,1 @@
+# contentfi-assets
